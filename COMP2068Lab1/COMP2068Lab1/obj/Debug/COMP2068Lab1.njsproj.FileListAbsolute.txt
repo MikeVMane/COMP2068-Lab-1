@@ -1,2 +1,5 @@
 C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Class2\Lab1\COMP2068Lab1\COMP2068Lab1\obj\Debug\COMP2068Lab1.njsproj.CoreCompileInputs.cache
 C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Class2\Lab1\COMP2068Lab1\COMP2068Lab1\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Class2\Lab1\COMP2068-Lab-1\COMP2068Lab1\COMP2068Lab1\obj\Debug\COMP2068Lab1.njsprojAssemblyReference.cache
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Class2\Lab1\COMP2068-Lab-1\COMP2068Lab1\COMP2068Lab1\obj\Debug\COMP2068Lab1.njsproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Georgian College\GC Sem 4\Javascript\Class2\Lab1\COMP2068-Lab-1\COMP2068Lab1\COMP2068Lab1\bin\Microsoft.NodejsTools.WebRole.dll
